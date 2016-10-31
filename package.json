@@ -15,7 +15,7 @@
     "jquery-sparkline": "^2.3.2",
     "jquery": "~2.2",
     "livestamp": "git+https://github.com/mattbradley/livestampjs.git#develop",
-    "lodash": "^4.12.0",
+    "lodash": "^4.16.5",
     "messenger": "git+https://github.com/HubSpot/messenger.git",
     "moment": "^2.13.0",
     "sortablejs": "^1.4.2",
